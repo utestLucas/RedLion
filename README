@@ -1,0 +1,9 @@
+RedLion - A simple testing token
+
+This app's original intention is simply to provide a dummy to pass through a service
+that expects Android applications.
+
+It was originally developed using the tutorial:
+http://developer.android.com/training/basics/firstapp/index.html
+
+As of 8/14/13 it has been run only on MacOS using Eclipse.
